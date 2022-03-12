@@ -1,0 +1,14 @@
+.card {
+  width: 93%;
+  height: auto;
+  min-height: 10rem;
+  border-radius: 0.5rem;
+  background-color: white;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.content_head {
+  background-color: #6366f1;
+  color: white;
+  font-weight: bold;
+}
